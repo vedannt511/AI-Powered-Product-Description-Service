@@ -1,7 +1,7 @@
 # AI-Powered-Product-Description-Service
 
 ## Overview
-Brief description of your project.
+Build a serverless service that processes user-uploaded product videos to automatically generate comprehensive e-commerce product information using AI
 
 ## Architecture
 ![alt text](<Architecure AWS.png>)
